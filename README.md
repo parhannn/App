@@ -20,8 +20,9 @@ Aplikasi ini merupakan aplikasi yang saya buat selama menempuh mata kuliah **Pen
 
 1. Programming Language = Kotlin
 2. Target SDK = 34
-3. Pagination
-4. Firebase Auth
+3. Minimum SDK = 24 (Android 7.0)
+4. Pagination
+5. Firebase Auth
 
 ## Unduh Aplikasi
 
