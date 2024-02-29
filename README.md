@@ -31,7 +31,7 @@ Anda dapat mengunduh aplikasi melalui tautan berikut ini.
 
 Selamat Mencoba!
 
-## Dokumentasi tugas
+## Dokumentasi Hasil Tugas
 
 Sebelum Ditambahkan Halaman Login
 
