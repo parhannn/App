@@ -7,7 +7,7 @@
 
 ## Tentang Aplikasi
 
-Aplikasi ini merupakan aplikasi yang saya buat selama menempuh mata kuliah **Pengambangan Aplikasi Mobile** di Institut Teknologi Sumatera. Aplikasi ini meliputi fitur:
+Aplikasi ini merupakan aplikasi yang saya buat selama menempuh mata kuliah **Pengambangan Aplikasi Mobile** di Institut Teknologi Sumatera, aplikasi ini saya namakan **My Portfolio** karena dalam aplikasi ini mencantumkan skill bahasa pemrograman yang saya kuasai selama menempuh pendidikan formal dan non-formal yang disajikan dalam Recycler View yang setiap list-nya dapat mengembalikan argumen. Aplikasi ini meliputi fitur:
 
 1. Login & Register
 2. Recycler view
