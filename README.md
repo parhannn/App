@@ -27,7 +27,7 @@ Aplikasi ini merupakan aplikasi yang saya buat selama menempuh mata kuliah **Pen
 
 Anda dapat mengunduh aplikasi melalui tautan berikut ini.
 
-<a href="https://drive.google.com/file/d/1GHSSrsPYogV5wAa3_p2oDTmlKzqC_AuQ/view?usp=drive_link">**UNDUH DISINI**</a>
+<a href="https://drive.google.com/file/d/1GHSSrsPYogV5wAa3_p2oDTmlKzqC_AuQ/view?usp=drive_link">**UNDUH DISINI**</a> (Ukuran Aplikasi: 8.3 MB)
 
 Selamat Mencoba!
 
