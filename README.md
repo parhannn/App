@@ -1,4 +1,10 @@
 # Tugas Pengembangan Aplikasi mobile
+
+<p align="center">
+  <img src="https://github.com/parhannn/Tugas-PAM/blob/master/app/src/main/res/drawable/app_logo.png"
+    width="350"
+    title="hover text">
+
 Dokumentasi tugas
 
 Sebelum Ditambahkan Halaman Login
